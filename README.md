@@ -18,8 +18,8 @@ Required packages: (any relatively new version should work)
 * sklearn
 * keras
 * seaborn
-* subprocess.call  // for visulization only
-* IPython.display.Image  // for visulization only
+* subprocess.call  (for visulization only)
+* IPython.display.Image  (for visulization only)
 
 ## Data
 

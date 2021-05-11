@@ -1,6 +1,6 @@
 # network_proj
-network_proj
-A Machine Learning related Method to dectect malware based on binary image & opcode. 
+network project: 
+Using machine learning related methods to dectect malwares based on binary image & opcode. 
 
 - ?.py : feature extraction.
 - ?.py : traditional machine learning.

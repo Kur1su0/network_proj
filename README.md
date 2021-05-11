@@ -1,8 +1,8 @@
-# Readme
+# Network Security & Privacy Final Project
 
 Using machine learning related methods to classify malwares based on binary image & opcode.
 
-- gen_features: feature extraction.
+- gen_features.ipynb: Data sampling, image and OpCode feature extraction.
 - rf_xxx.ipynb / svm_xxx.ipynb : Random Forest and Support Vector Machine.
 - nn.ipynb: CNN (VGG-16) and MLP.
 

@@ -3,7 +3,7 @@
 Using machine learning related methods to classify malwares based on binary image & opcode.
 
 - gen_features: feature extraction.
-- ?.py : traditional machine learning.
+- rf_xxx.ipynb / svm_xxx.ipynb : Random Forest and Support Vector Machine.
 - nn.ipynb: CNN (VGG-16) and MLP.
 
 ## Environment
@@ -18,6 +18,8 @@ Required packages: (any relatively new version should work)
 * sklearn
 * keras
 * seaborn
+* subprocess.call  // for visulization only
+* IPython.display.Image  // for visulization only
 
 ## Data
 

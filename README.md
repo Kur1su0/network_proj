@@ -1,4 +1,11 @@
 # Readme
+
+Using machine learning related methods to dectect malwares based on binary image & opcode.
+
+- gen_features: feature extraction.
+- ?.py : traditional machine learning.
+- nn.ipynb: CNN (VGG-16) and MLP.
+
 ## Environment
 
 python=3.7.10

@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Readme
 
-Using machine learning related methods to dectect malwares based on binary image & opcode.
+Using machine learning related methods to classify malwares based on binary image & opcode.
 
 - gen_features: feature extraction.
 - ?.py : traditional machine learning.
@@ -23,14 +22,4 @@ Required packages: (any relatively new version should work)
 ## Data
 
 We only included the n-gram opcode features in this repo.
-
 See /u/zw9ga/net_proj/data/subtrain on cs portal for malware files and malware images. 
-=======
-# network_proj
-network project: 
-Using machine learning related methods to dectect malwares based on binary image & opcode. 
-
-- ?.py : feature extraction.
-- ?.py : traditional machine learning.
-- nn.ipynb: CNN (VGG-16) and MLP.
->>>>>>> 8f5a55cdfd0263624ba102b6d89132b6ff29658f

@@ -1,6 +1,8 @@
 # Network Security & Privacy Final Project
 
-Using machine learning related methods to classify malwares based on binary image & opcode.
+Using machine learning to classify malware based on malware images & n-gram opcode.
+
+Report: https://docs.google.com/document/d/1hGFQvtZ1E050XQbYCJ5nMDortyRefkEtX4MwwjezCbg/edit#
 
 - gen_features.ipynb: Data sampling, image and OpCode feature extraction.
 - rf_xxx.ipynb / svm_xxx.ipynb : Random Forest and Support Vector Machine.
